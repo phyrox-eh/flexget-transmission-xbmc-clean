@@ -6,4 +6,5 @@ This plugin for flexget cleans the transmission seeding queue based on your watc
 Requisites
 ==============================
 - Flexget
-- jsonrpclib
+- Transmission
+- transmissionrpc
